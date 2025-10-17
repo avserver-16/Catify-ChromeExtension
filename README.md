@@ -36,7 +36,7 @@ Turn your browsing into a purr-fectly funny experience every time you search for
 
 ## 📸 Demo
 
-*Coming soon — screenshots of catified Google Images!*
+![App_Screenshot](https://github.com/avserver-16/Catify-ChromeExtension/blob/main/ReadmeImg.png)
 
 ---
 
@@ -54,4 +54,5 @@ This project is licensed under the **MIT License** — free to use and modify.
 ---
 
 Would you like me to make it slightly more **playful and meme-style** (like a fun GitHub landing README), or keep it **professional and clean** like this?
+
 
